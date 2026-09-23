@@ -40,7 +40,7 @@ export const ThemeToggle = () => {
                 "focus:outlin-hidden"
             )}
         >
-            {" Sema "}
+            {" "}
             {isDarkMode ? (
                 <Sun className="h-6 w-6 text-yellow-300" />
             ) : (
