@@ -112,6 +112,7 @@ export const ProjectsSection = () => {
                         className="cosmic-button w-fit flex items-center mx-auto gap-2"
                         target="_blank"
                         href="#"
+                    // always add https:// to your links
                     >
                         Check My Github <ArrowRight size={16} />
                     </a>
